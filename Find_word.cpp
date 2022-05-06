@@ -1,3 +1,8 @@
+//we find the words inside given string.
+//If it is present in string then display its position otherwise display " No word found!! ".
+
+
+
 #include <iostream>
 #include<cstring>
 using namespace std;
